@@ -1,0 +1,5 @@
+body { font-family: sans-serif; max-width: 600px; margin: 40px auto; }
+form { display: flex; gap: 8px; margin-bottom: 20px; }
+input { flex: 1; padding: 6px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
