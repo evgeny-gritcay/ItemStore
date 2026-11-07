@@ -10,12 +10,8 @@
 ## Скриншоты
 
 ![Каталог товаров](docs/screenshots/catalog.png)
-![Swagger UI](docs/screenshots/swagger.png)
 
-<p align="center">
-  <img src="docs/screenshots/catalog.png" width="49%">
-  <img src="docs/screenshots/swagger.png" width="49%">
-</p>
+![Swagger UI](docs/screenshots/swagger.png)
 
 ## Стек
 
@@ -92,3 +88,8 @@ docs/
 ## Планы
 
 - [ ] Пагинация списка
+
+## Примечание
+
+Проект выполнен в учебных целях при помощи ИИ-ассистента.
+Весь код разобран и осмыслен.
