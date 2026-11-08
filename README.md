@@ -4,7 +4,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkgreen?logo=postgresql)]()
 [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)]()
 
-Учебный REST API: CRUD «элементов» (товары) с валидацией, миграциями EF Core
+Учебный REST API: CRUD товаров с валидацией, юнит-тестами, миграциями EF Core
 и простой веб-страницей каталога.
 
 ## Скриншоты
